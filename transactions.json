@@ -25,5 +25,21 @@
         "description": "lunch",
         "category": "Food",
         "date": "2026-09-19"
+    },
+    {
+        "id": 3,
+        "type": "income",
+        "amount": 25000.0,
+        "description": "salary",
+        "category": null,
+        "date": "2026-09-19"
+    },
+    {
+        "id": 4,
+        "type": "expense",
+        "amount": 1300.0,
+        "description": "lunch",
+        "category": "Food",
+        "date": "2026-09-19"
     }
 ]
